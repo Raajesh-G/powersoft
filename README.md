@@ -16,4 +16,4 @@ $ unzip node_modules.zip
 # Contributors :
 
 - [Raajesh.G](https://github.com/Raajesh-G)
-- [Praveen.K.S](https://github.com/praveen2002)
+- [Praveen.K.S](https://github.com/lightningsarp)
